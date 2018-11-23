@@ -27,6 +27,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Laravel4.2CRUD
 
 ## Installation:
-# Requirements:
+### Requirements:
 	PHP 7.0.29+
 	MySQL 5.7.21
