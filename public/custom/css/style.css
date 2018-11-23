@@ -1,0 +1,24 @@
+
+.tableRow:nth-child(even) {
+    background: #CCC
+}
+
+.tableRow:nth-child(odd) {
+    background: #DDD
+}
+tr button {
+    width: 100%;
+    height: 100%;
+}
+table {
+    width: 100%;
+}
+form {
+    margin-bottom: 0px;
+}
+.tableBorder {
+    border: 3px solid black;
+}
+.tableRow{
+    border: 1px solid darkgrey;
+}
